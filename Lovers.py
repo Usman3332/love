@@ -38,7 +38,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    usman kna tareen
-   ▄︻̷̿┻̿═━一
+   ▄︻̷̿┻̿═━一Lovers.py
    THE USMAN KHAN TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
